@@ -3,10 +3,10 @@ published: true
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of undergraduate, extracurricular, and personal projects.
+description: A collection of personal, extracurricular, and undergraduate projects.
 nav: true
 nav_order: 3
-display_categories: [Undergraduate, Extracurricular, Personal]
+display_categories: [Personal, Extracurricular, Undergraduate]
 horizontal: false
 ---
 

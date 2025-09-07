@@ -1,15 +1,15 @@
 ---
-published: false
+published: true
 layout: default
 permalink: /blog/
-title: blog
+title: Projects_2
 nav: true
 nav_order: 1
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 8
   sort_field: date
   sort_reverse: true
   trail:

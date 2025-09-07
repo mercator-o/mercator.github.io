@@ -30,7 +30,9 @@ announcements:
 ---
 
 “Science is about knowing, engineering is about doing.”
+
 -Henry Petroski
+
 
 Growing up on an oyster farm, I began driving a boat at three years old. Every day was filled with new challenges - and broken equipment - and so by working through weekends, holidays, and in the brutally cold winters, I learned the importance of hard work and responsibility. I quickly gained a knack for repairing winches and motors and building contraptions ranging from upwellers to motorized vehicles. My interested in mechanical devices eventually lead me to a 1949 Willy's Jeep, which I spent much of my high school years repairing. I continued developing this interest and enhanced my knowledge and skills at Yale University, where earned an ABET Mechanical Engineering degree.
 
