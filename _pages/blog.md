@@ -1,10 +1,10 @@
 ---
 published: true
 layout: default
-permalink: /blog/
-title: Projects_2
+permalink: /projects/
+title: Projects
 nav: true
-nav_order: 1
+nav_order: 1 # order on nav bar (first)
 pagination:
   enabled: true
   collection: posts
