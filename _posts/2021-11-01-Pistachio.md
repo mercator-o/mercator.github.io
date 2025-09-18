@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Pistachio Crusher
-date: 2019-11-01
+date: 2021-11-01
 #description: this is what included images could look like
 tags: Undergraduate
 #categories: sample-posts
@@ -12,13 +12,13 @@ featured: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pistachio2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pistachio2.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pistachio3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pistachio3.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Pistachio4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Pistachio4.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
